@@ -205,7 +205,7 @@ const Login = () => {
           <p>Get the app.</p>
           <div id='get-app-img'>
             
-            <img src="https://static.cdninstagram.com/rsrc.php/v3/yz/r/c5Rp7Ym-Klz.png" />
+            <img  src="https://static.cdninstagram.com/rsrc.php/v3/yz/r/c5Rp7Ym-Klz.png" />
             <img src="https://static.cdninstagram.com/rsrc.php/v3/yu/r/EHY6QnZYdNX.png" />
           </div>
         </div>
