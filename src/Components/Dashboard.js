@@ -81,8 +81,7 @@ const Dashboard = () => {
 
       <div class="content">
         <AllPost></AllPost>
-        <p>{name}</p>
-        <p>{zuku}</p>
+        
       </div>
       <Footer></Footer>
     </>

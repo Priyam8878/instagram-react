@@ -238,6 +238,11 @@ background-color: #111;
  
   margin-left: 250px;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
 }
 
 
